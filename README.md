@@ -10,7 +10,7 @@ In this study, we propose a smart home security framework based on an Endpoint D
 
 The system provides real-time alerts, logs forensic evidence, and demonstrates a practical, privacy-preserving approach to safeguarding IoT devices in everyday home environments.
 
-Through SafeOn, we can makea practical, scalable, and privacy-conscious approach to securing IoT devices against increasingly sophisticated cyber threats.
+Through SafeOn, we can make a practical, scalable, and privacy-conscious approach to securing IoT devices against increasingly sophisticated cyber threats.
 
 ---
 
